@@ -4,6 +4,7 @@ My love for technology started when I got a LEGO Mindstorms kit at age 10 — an
 
 ## Timeline
 -2024 digitall code awards, In a team of 3 submitted a medical help device called "lifeflow" Won the catogory "tech for good" and was commened for the catagorys "Tech Entrepreneurship" and "Tech For Wellbeing"
+
 -2025 Rebranded lifeflow and submitted it to the PaPI Competition and walked away from the london event with the "Innovation Award" and £1000 for our school.
 
 [Reference for Millie.pdf](https://github.com/user-attachments/files/23529161/Reference.for.Millie.pdf)
